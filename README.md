@@ -1,27 +1,26 @@
 # Cup IT 2023 - Final - Product
-## Разработка методологии оценки продуктовых идей
 
-![Текст с описанием картинки](https://old-corp.qiwi.com/dam/jcr:75d303a3-c579-4fb4-be4c-258da7f2a05f/qiwi_logo_rgb_small.png)
+## Development of a methodology for evaluating product ideas
 
-## Постановка задачи
-Предложите продуктовое решение, которое повысит доходность QIWI Кошелька на 30% к концу 2023 года. В процессе работы разработайте аналитический подход, который оптимизирует процесс принятия бизнес-решений. Используйте его для ранжирования ваших гипотез.
+## Problem Statement
+Propose a product solution that will increase the profitability of QIWI Wallet by 30% by the end of 2023. In the process, develop an analytical approach that optimizes the business decision-making process. Use it to rank your hypotheses.
 
-1. Изучив данные о пользователях продукта, разделите их на сегменты и оцените, какие из них могут быть  наиболее выгодными для бизнеса. Опишите сегменты с помощью продуктовых и финансовых метрик.
+1. Analyzing user data, segment them and assess which segments are potentially the most profitable for the business. Describe the segments using product and financial metrics.
 
-2. Предложите гипотезы о связи между продуктовыми и финансовыми метриками, а также метод для уточнения сегментов, чтобы улучшить решение. Подкрепите гипотезы данными.
+2. Propose hypotheses about the relationship between product and financial metrics, as well as a method for refining segments to improve the solution. Support the hypotheses with data.
 
-3. Создайте экономическую модель продукта, используя связь между продуктовыми и финансовыми метриками. Эта модель должна определить, какие продуктовые метрики нужно изменить и насколько, чтобы увеличить доходность продукта на 30%.
+3. Create an economic model of the product, using the connection between product and financial metrics. This model should determine which product metrics need to be changed and by how much in order to increase the product's profitability by 30%.
 
-4. Выберите ключевые метрики продукта и опишите метод для ранжирования и проверки гипотез при помощи анализа сегментов и экономической модели. Оцените гипотезы и предложите свои идеи для развития продукта.
+4. Select key product metrics and describe a method for ranking and testing hypotheses using segment analysis and the economic model. Evaluate the hypotheses and propose your ideas for product development.
 
-## Структура решения
+## Solution Structure
 
 - **Executive summary**
-- **Анализ набора данных**
-- **Построение модели кластеризации**
-- **Методы уточнения сегментов**
-- **Описание сегментов**
-- **Unit-экономика**
-- **Ранжирование гипотез**
+- **Data analysis**
+- **Clustering model**
+- **Segment refinement methods**
+- **Segment descriptions**
+- **Unit economics**
+- **Hypothesis ranking**
 
-Результат: 1 место!
+Result: 1st place
